@@ -295,40 +295,7 @@ section.features .feature-item i {
     max-width: none;
   }
 }
-section.cta {
-  position: relative;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-  background-position: center;
-  background-image: url('../img/bg-cta.jpg');
-  padding: 250px 0;
-}
-section.cta .cta-content {
-  position: relative;
-  z-index: 1;
-}
-section.cta .cta-content h2 {
-  margin-top: 0;
-  margin-bottom: 25px;
-  color: white;
-  max-width: 450px;
-  font-size: 50px;
-}
-@media (min-width: 768px) {
-  section.cta .cta-content h2 {
-    font-size: 80px;
-  }
-}
-section.cta .overlay {
-  height: 100%;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  position: absolute;
-  top: 0;
-  left: 0;
-}
+
 section.contact {
   text-align: center;
 }
@@ -363,12 +330,19 @@ section.contact ul.list-social li.social-instagram a {
 section.contact ul.list-social li.social-instagram a:hover {
   background-color: #C13B41;
 }
-section.contact ul.list-social li.social-google-plus a {
-  background-color: #dd4b39;
+section.contact ul.list-social li.social-linkedin a {
+  background-color: #2F73AB;
 }
-section.contact ul.list-social li.social-google-plus a:hover {
-  background-color: #d73925;
+section.contact ul.list-social li.social-linkedin a:hover {
+  background-color: #3D99E9;
 }
+section.contact ul.list-social li.social-github a {
+  background-color: black;
+}
+section.contact ul.list-social li.social-github a:hover {
+  background-color: #BBBBBB;
+}
+
 footer {
   background-color: #222222;
   padding: 25px 0;
@@ -449,3 +423,20 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+.featurette-image.pull-right {
+  margin-left: 40px;
+}
+
+.bg-tech {
+  background: #fdcc52;
+  background: -webkit-linear-gradient(#fdcc52, #fdc539);
+  background: linear-gradient(rgba(59, 76, 36, 0.08),rgb(202, 143, 236));
+ }
+
+ .bg-comedy {
+  background: #fdcc52;
+  background: -webkit-linear-gradient(#fdcc52, #fdc539);
+  background: linear-gradient(rgb(202, 143, 236),rgba(117, 191, 138, 0.26));
+ }
+
