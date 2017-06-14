@@ -1,0 +1,19 @@
+extends layout
+
+block content
+    .panel.panel-default
+        .panel-heading Fitbit : Distance
+        .panel-body
+            table.table.table-striped
+                thead
+                    tr
+                        th activity
+                        th value
+                tbody#distances
+
+        script.
+            var data = !{JSON.stringify(distances)};
+            var rows = '';
+            data.forEach(function(e){
+                $('#distances').append('<tr><td>'+e.activity+'</td><td>'+e.distance+'</td></tr>');
+            });

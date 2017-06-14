@@ -1,0 +1,182 @@
+[15-Jun-2016 18:39:32 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/login_with_fitbit.php on line 92
+[15-Jun-2016 18:39:40 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[15-Jun-2016 18:39:40 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[15-Jun-2016 18:39:40 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[15-Jun-2016 18:39:59 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[15-Jun-2016 18:39:59 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[15-Jun-2016 18:39:59 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[15-Jun-2016 18:51:05 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/login_with_fitbit.php on line 92
+[15-Jun-2016 19:03:27 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[15-Jun-2016 19:03:27 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[15-Jun-2016 19:03:27 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[15-Jun-2016 19:03:27 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[15-Jun-2016 19:03:27 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[15-Jun-2016 19:03:27 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[16-Jun-2016 07:26:55 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[16-Jun-2016 07:26:55 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[16-Jun-2016 07:26:55 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[16-Jun-2016 07:26:57 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[16-Jun-2016 07:26:57 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[16-Jun-2016 07:26:57 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[16-Jun-2016 08:30:26 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[16-Jun-2016 08:30:26 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[16-Jun-2016 08:30:26 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[16-Jun-2016 09:51:51 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[16-Jun-2016 09:51:51 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[16-Jun-2016 09:51:51 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[16-Jun-2016 10:56:50 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[16-Jun-2016 10:56:50 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[16-Jun-2016 10:56:50 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[16-Jun-2016 14:10:57 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[16-Jun-2016 14:10:57 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[16-Jun-2016 14:10:57 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[17-Jun-2016 19:29:14 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[17-Jun-2016 19:29:15 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[17-Jun-2016 19:29:15 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[17-Jun-2016 19:33:33 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[17-Jun-2016 19:33:33 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[17-Jun-2016 19:33:33 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[18-Jun-2016 15:47:56 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[18-Jun-2016 15:47:56 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[18-Jun-2016 15:47:56 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[18-Jun-2016 17:06:45 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[18-Jun-2016 17:06:45 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[18-Jun-2016 17:06:45 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[18-Jun-2016 18:15:45 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[18-Jun-2016 18:15:45 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[18-Jun-2016 18:15:45 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[18-Jun-2016 20:05:09 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[18-Jun-2016 20:05:09 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[18-Jun-2016 20:05:09 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[19-Jun-2016 22:45:04 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[19-Jun-2016 22:45:04 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[19-Jun-2016 22:45:04 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[19-Jun-2016 22:49:52 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[19-Jun-2016 22:49:52 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[19-Jun-2016 22:49:52 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[20-Jun-2016 16:18:47 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[20-Jun-2016 16:18:47 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[20-Jun-2016 16:18:47 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[20-Jun-2016 16:19:35 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[20-Jun-2016 16:19:35 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[20-Jun-2016 16:19:35 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[20-Jun-2016 17:20:28 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[20-Jun-2016 17:20:28 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[20-Jun-2016 17:20:28 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[20-Jun-2016 17:56:40 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[20-Jun-2016 17:56:40 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[20-Jun-2016 17:56:40 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[21-Jun-2016 16:48:18 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[21-Jun-2016 16:48:19 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[21-Jun-2016 16:48:19 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[21-Jun-2016 16:51:22 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[21-Jun-2016 16:51:22 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[21-Jun-2016 16:51:22 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[21-Jun-2016 21:45:55 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[21-Jun-2016 21:45:55 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[21-Jun-2016 21:45:55 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[21-Jun-2016 22:49:51 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[21-Jun-2016 22:49:51 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[21-Jun-2016 22:49:51 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[23-Jun-2016 16:17:09 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[23-Jun-2016 16:17:09 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[23-Jun-2016 16:17:09 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[23-Jun-2016 16:25:26 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[23-Jun-2016 16:25:26 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[23-Jun-2016 16:25:26 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[23-Jun-2016 20:33:07 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[23-Jun-2016 20:33:07 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[23-Jun-2016 20:33:07 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[23-Jun-2016 23:02:03 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[23-Jun-2016 23:02:03 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[23-Jun-2016 23:02:03 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[24-Jun-2016 18:25:04 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[24-Jun-2016 18:25:04 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[24-Jun-2016 18:25:04 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[24-Jun-2016 18:54:10 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[24-Jun-2016 18:54:10 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[24-Jun-2016 18:54:10 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[24-Jun-2016 19:59:00 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[24-Jun-2016 19:59:00 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[24-Jun-2016 19:59:00 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[25-Jun-2016 00:24:25 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[25-Jun-2016 00:24:25 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[25-Jun-2016 00:24:25 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[25-Jun-2016 08:17:28 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[25-Jun-2016 08:17:28 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[25-Jun-2016 08:17:28 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[25-Jun-2016 08:22:24 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[25-Jun-2016 08:22:24 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[25-Jun-2016 08:22:24 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[27-Jun-2016 09:17:24 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[27-Jun-2016 09:17:25 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[27-Jun-2016 09:17:25 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[27-Jun-2016 09:42:31 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[27-Jun-2016 09:42:31 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[27-Jun-2016 09:42:31 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[27-Jun-2016 16:58:00 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[27-Jun-2016 16:58:00 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[27-Jun-2016 16:58:00 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[28-Jun-2016 17:23:17 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[28-Jun-2016 17:23:18 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[28-Jun-2016 17:23:18 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[28-Jun-2016 17:47:50 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[28-Jun-2016 17:47:50 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[28-Jun-2016 17:47:50 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[29-Jun-2016 22:42:35 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[29-Jun-2016 22:42:35 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[29-Jun-2016 22:42:35 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[29-Jun-2016 22:42:35 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[29-Jun-2016 22:42:35 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[29-Jun-2016 22:42:35 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[30-Jun-2016 19:58:55 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[30-Jun-2016 19:58:55 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[30-Jun-2016 19:58:55 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[30-Jun-2016 20:04:02 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[30-Jun-2016 20:04:02 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[30-Jun-2016 20:04:02 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[30-Jun-2016 23:19:58 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[30-Jun-2016 23:19:58 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[30-Jun-2016 23:19:58 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[01-Jul-2016 08:41:39 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[01-Jul-2016 08:41:39 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[01-Jul-2016 08:41:39 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[01-Jul-2016 08:42:07 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[01-Jul-2016 08:42:07 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[01-Jul-2016 08:42:07 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[01-Jul-2016 20:35:23 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[01-Jul-2016 20:35:23 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[01-Jul-2016 20:35:23 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[01-Jul-2016 20:35:23 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[01-Jul-2016 20:35:23 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[01-Jul-2016 20:35:23 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[01-Jul-2016 23:02:06 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[01-Jul-2016 23:02:06 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[01-Jul-2016 23:02:06 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[02-Jul-2016 00:02:58 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[02-Jul-2016 00:02:58 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[02-Jul-2016 00:02:58 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[02-Jul-2016 11:52:50 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[02-Jul-2016 11:52:50 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[02-Jul-2016 11:52:50 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[02-Jul-2016 12:01:24 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[02-Jul-2016 12:01:24 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[02-Jul-2016 12:01:24 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[04-Jul-2016 16:58:57 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[04-Jul-2016 16:58:57 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[04-Jul-2016 16:58:57 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[04-Jul-2016 17:00:05 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[04-Jul-2016 17:00:05 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[04-Jul-2016 17:00:05 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[05-Jul-2016 20:41:44 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[05-Jul-2016 20:41:44 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[05-Jul-2016 20:41:44 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[05-Jul-2016 21:23:52 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[05-Jul-2016 21:23:52 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[05-Jul-2016 21:23:52 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[06-Jul-2016 16:30:08 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[06-Jul-2016 16:30:08 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[06-Jul-2016 16:30:08 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64
+[06-Jul-2016 16:37:19 America/New_York] PHP Notice:  Undefined index: FITBIT_KEY in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 8
+[06-Jul-2016 16:37:19 America/New_York] PHP Notice:  Undefined index: FITBIT_SECRET in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/testpage.php on line 9
+[06-Jul-2016 16:37:19 America/New_York] PHP Fatal error:  Class 'OAuth' not found in /home/peacfgji/public_html/kaleighscruggs.com/FitAppWeb/fitbitphp.php on line 64

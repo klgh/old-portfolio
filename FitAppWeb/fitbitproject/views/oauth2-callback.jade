@@ -1,0 +1,65 @@
+extends layout
+
+block content
+
+    ul(style='width: '+(100/4)+'%').list-group
+        a.li.list-group-item.active Fitbit
+        a.li.list-group-item( href="/step/" ) Step
+        a.li.list-group-item( href="/distance/" ) Distance
+        a.li.list-group-item( href="/caloriesOut/" ) Calories out
+
+    //a(class='button', href='/step') Step
+    script(src='https://npmcdn.com/axios/dist/axios.min.js')
+    script.
+        Date.prototype.yyyymmdd = function (separator) {
+            separator = separator || '-';
+            var yyyy = this.getFullYear().toString();
+            var mm = (this.getMonth() + 1).toString(); // getMonth() is zero-based
+            var dd = this.getDate().toString();
+            return yyyy + separator + (mm[1] ? mm : "0" + mm[0]) + separator + (dd[1] ? dd : "0" + dd[0]); // padding
+        };
+
+        function setLinksToToday(){
+            var d = new Date();
+            var today = d.yyyymmdd('/');
+            $('a').each(function () {
+                this.href = this.href+(today);
+            });
+        }
+
+        function prepareParameters() {
+            var d = new Date();
+            var today = d.yyyymmdd();
+            var params = document.location.href.split("#")[1].split("&");
+            return {today: today, params: params};
+        }
+
+        //function getActivityToday() {
+          //  var p = prepareParameters();
+        function saveCrednetial(){
+            var p = prepareParameters();
+            var user_id = '';
+            var token = '';
+
+            p.params.forEach(function (e) {
+                if ((e.split("="))[0] == 'user_id') {
+                    user_id = e.split("=")[1];
+                }
+                else if ((e.split("="))[0] == 'access_token') {
+                    token = e.split("=")[1];
+                }
+            });
+
+            axios.post('/oauth2/saveCredentials',{token:token,user_id:user_id})
+                    .then(function (response) {
+                        console.log({token:token,user_id:user_id});
+                        console.log(response.data.message);
+                    })
+                    .catch(function (response) {
+                        console.log(response);
+                    });
+        }
+
+        saveCrednetial();
+        setLinksToToday();
+        //getActivityToday();//add
