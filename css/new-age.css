@@ -342,6 +342,12 @@ section.contact ul.list-social li.social-github a {
 section.contact ul.list-social li.social-github a:hover {
   background-color: #BBBBBB;
 }
+section.contact ul.list-social li.social-blog a {
+  background-color: #F7B424;
+}
+section.contact ul.list-social li.social-blog a:hover {
+  background-color: #ffbb21;
+}
 
 footer {
   background-color: #222222;
